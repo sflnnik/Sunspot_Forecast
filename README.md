@@ -3,8 +3,10 @@
 ## Description
 
 This repository contains data and figures of Sunspot numbers monthly time series forecast.
-Observational Sunspot data is provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/silso/datafiles)
+Observational Sunspot data is provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/silso/datafiles).
+
 The forecast is estimated with a method based on a combination of numerical solution of nonlinear mean-field dynamo equations and two-layer artificial neural network.
+
 The presented methodology is a continuous scientific work relying on several publications () 
 
 ## Repository directories
