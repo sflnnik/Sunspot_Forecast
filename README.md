@@ -34,7 +34,7 @@ We compare our forecast with observational data provided by https://www.sidc.be/
 
 * Latest monthly evaluated predictions and observations  `R`
 
-![plot](./figs/2024/01/f_24_01.svg)
+![plot](./figs/2024/01/f_24_01.png)
 
 * Comparison with the other methods of forecast
 
