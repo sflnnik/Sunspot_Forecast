@@ -30,28 +30,13 @@ We compare our forecast with observational data provided by https://www.sidc.be/
 
 * Actual forecast
 
-![plot](./figs/f_2.png)
+![plot](./figs/2024/01/f_2024_01.svg)
 
 * Latest monthly evaluated predictions and observations  `R`
 
-![plot](./figs/f_1.png)
+![plot](./figs/2024/01/f_24_01.svg)
 
 * Comparison with the other methods of forecast
 
-![plot](./figs/f_all.png)
+![plot](./figs/2024/01/f_2024_01_all.svg)
 
-* Forecast data in table form. Each column is for the date of predicted 13-months running average sunspot number (-6 months from the date of the given forecast). Each raw is for the date when the solar activity was predicted  
-
-![plot](./figs/fig2.png)
-
-* All forecasts curves
-
-![plot](./figs/fig1.png)
-
-* Residual between the predicted and the observed sunspots number for different forecast depths (`m` - months ahead)
-![plot](./figs/fig3.png)
-
-* Standart deviation of the residual between the predicted and the observed sunspots number for different forecast depths (`m` - months ahead)
-![plot](./figs/fig4.png)
-
-> The project is supported by the Russian Science Foundation (grant No.21-72-20067).
