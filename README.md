@@ -25,7 +25,7 @@ The presented methodology is a continuous scientific work relying on several pub
 
 ### Comparison with the other methods of forecast
 
-The 3 other forecasts presented here for comparison are provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/SILSO/forecasts).
+Data for the other 3 forecasts presented here for comparison are provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/SILSO/forecasts).
 
 ![plot](./figs/2024/01/f_2024_01_all.png)
 
