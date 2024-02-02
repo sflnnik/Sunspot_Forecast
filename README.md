@@ -17,15 +17,15 @@ Observational Sunspot data is provided by the World Data Center SILSO, Royal Obs
 
 ### Actual forecast
 
-![plot](./figs/2024/01/f_2024_02.png)
+![plot](./figs/2024/02/f_2024_02.png)
 
 ### Latest monthly forecast estimations and observations `R`
 
-![plot](./figs/2024/01/f_24_02.png)
+![plot](./figs/2024/02/f_24_02.png)
 
 ### Comparison with the other methods of forecast
 
 Data for the other 3 forecasts presented here for comparison are provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/SILSO/forecasts).
 
-![plot](./figs/2024/01/f_2024_02_all.png)
+![plot](./figs/2024/02/f_2024_02_all.png)
 
