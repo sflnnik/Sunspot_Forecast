@@ -25,7 +25,7 @@ Observational Sunspot data is provided by the World Data Center SILSO, Royal Obs
 
 ### Comparison with the other methods of forecast
 
-Data for the other 3 forecasts presented here for comparison are provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/SILSO/forecasts).
+Data for the other 3 forecasts presented here for comparison are provided by the World Data Center SILSO, Royal Observatory of Belgium, Brussels (https://www.sidc.be/SILSO/forecasts)
 
 ![plot](./figs/2026/10/f_2026_10_all.png)
 
